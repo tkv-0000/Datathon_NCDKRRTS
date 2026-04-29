@@ -1,0 +1,30 @@
+# Datathon 2026 - Nếu cả đời không rực rỡ thì sao
+---
+Repository này là nơi chứa tất cả mã nguồn, mô hình và sản phẩm của nhóm Nếu cả đời không rực rỡ thì sao trong quá trình tham gia vòng Sơ loại của cuộc thi Datathon 2026 - The GridBreakers
+---
+## Khái quát Repository
+Gồm 4 folder tương ứng với các nội dung:
+- Dataset: bộ dữ liệu do BTC cung cấp, tổng cộng 14 file csv và 1 file Jupyter Notebook
+- Part 1_MCQ: file Jupyter Notebook ghi lại quá trình tìm ra câu trả lời cho phần 1
+- Part 2_Visualization_Insights: các file Jupyter Notebook (cleaning), Tableau (Visualization), và report tổng thể
+- Part 3: file Jupyter Notebook có đầy đủ pipeline của mô hình Machine Learning và các biểu đồ SHAP Explainability giải thích mô hình
+---
+## Các yêu cầu cần đáp ứng để đảm bảo việc tái lập kết quả
+1. Packages và Libraries của Python
+- Định dạng file: .ipynb
+- Phiên bản sử dụng để đảm bảo tái lập:
+` numpy:    1.26.4
+  pandas:   2.2.2
+  sklearn:  1.5.1
+  lightgbm: 4.6.0
+  seaborn:  0.13.2
+  shap:     0.45.1 `
+2. Tableau
+- Định dạng file: .twbx
+- Tải Tableau Public tại [đây](https://www.tableau.com/products/public/download) hoặc sử dụng [Tableau Public Web](https://public.tableau.com/app/profile/nguyen.chau/viz/002_DataVisualization/VISUALIZATION) để xem các visualization
+---
+## Các thông tin khác
+1. Mã đội thi: cP35ukmreDgz6gJOEJda
+2. Link repository: [Nếu_cả_đời_không_rực_rỡ_thì_sao](https://github.com/tkv-0000/Datathon_N-u-c-i-kh-ng-r-c-r-th-sao)
+3. Link submission Kaggle: [submission.csv](https://github.com/tkv-0000/Datathon_N-u-c-i-kh-ng-r-c-r-th-sao/blob/6461a281f8c3f0e6181705f5f23479d976cf1bf4/Part%203_Machine_Learning/submission.csv)
+4. Minh chứng đối tượng tham gia: [Minh chứng](https://drive.google.com/drive/folders/12Y7PEO2nLWQGRjTjVX0RtI63zCTTKamw?usp=sharing)
