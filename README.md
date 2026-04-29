@@ -1,6 +1,6 @@
 # Datathon 2026 - Nếu cả đời không rực rỡ thì sao
 ---
-Chứa tất cả mã nguồn, mô hình và sản phẩm của nhóm trong quá trình tham gia vòng Sơ loại cuộc thi Datathon 2026 - The GridBreakers
+### Chứa tất cả mã nguồn, mô hình và sản phẩm của nhóm trong quá trình tham gia vòng Sơ loại cuộc thi Datathon 2026 - The GridBreakers
 ---
 ## Khái quát Repository
 Gồm 4 folder và 1 file txt:
