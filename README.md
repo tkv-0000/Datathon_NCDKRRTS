@@ -31,21 +31,27 @@ pip install requirements.txt
 4. Minh chứng đối tượng tham gia: [Minh chứng](https://drive.google.com/drive/folders/12Y7PEO2nLWQGRjTjVX0RtI63zCTTKamw?usp=sharing)
 ---
 ## Contributors
-<h2 align="center">Top Contributors</h2>
-
-<p align="center">
-  <a href="https://github.com/audriangx">
-    <img src="https://github.com/audriangx.png" width="80" style="border-radius:50%"><br/>
-    <sub><b>Nguyễn Minh Châu</b></sub>
-  </a>
-
-  <a href="https://github.com/tkv-0000">
-    <img src="https://github.com/tkv-0000.png" width="80" style="border-radius:50%"><br/>
-    <sub><b>Tô Khánh Vân</b></sub>
-  </a>
-
-  <a href="https://github.com/Ahirru">
-    <img src="https://github.com/Ahirru.png" width="80" style="border-radius:50%"><br/>
-    <sub><b>Nguyễn Đình Việt</b></sub>
-  </a>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/audriangx">
+          <img src="https://github.com/audriangx.png" width="100px;" alt="Member"/><br />
+          <sub><b>Nguyễn Minh Châu</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/tkv-0000">
+          <img src="https://github.com/tkv-0000.png" width="100px;" alt="Leader"/><br />
+          <sub><b>Tô Khánh Vân</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Ahirru">
+          <img src="https://github.com/Ahirru.png" width="100px;" alt="Member"/><br />
+          <sub><b>Nguyễn Đình Việt</b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
