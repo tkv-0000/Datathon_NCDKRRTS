@@ -13,7 +13,8 @@ Gồm 4 folder và 1 file txt:
 ## Các yêu cầu cần đáp ứng để đảm bảo việc tái lập kết quả
 1. Packages và Libraries của Python
 - Định dạng file: .ipynb
-- Phiên bản sử dụng để đảm bảo tái lập:
+- Phiên bản Python: 3.12.7
+- Phiên bản libraries sử dụng để đảm bảo tái lập:
 
 ```bash
 pip install requirements.txt
