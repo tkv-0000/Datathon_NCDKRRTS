@@ -14,11 +14,17 @@ Gồm 4 folder tương ứng với các nội dung:
 - Định dạng file: .ipynb
 - Phiên bản sử dụng để đảm bảo tái lập:
 ` numpy:    1.26.4`
+
 ` pandas:   2.2.2`
+
 ` sklearn:  1.5.1`
+
 ` lightgbm: 4.6.0`
+
 ` seaborn:  0.13.2`
+
 ` shap:     0.45.1`
+
 
 2. Tableau
 - Định dạng file: .twbx
