@@ -15,7 +15,9 @@ Gồm 4 folder và 1 file txt:
 - Định dạng file: .ipynb
 - Phiên bản sử dụng để đảm bảo tái lập:
 
-``` pip install requirements.txt```
+```bash
+pip install requirements.txt
+```
 
 2. Tableau
 - Định dạng file: .twbx
