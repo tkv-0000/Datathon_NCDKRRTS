@@ -13,6 +13,7 @@ Gồm 4 folder tương ứng với các nội dung:
 1. Packages và Libraries của Python
 - Định dạng file: .ipynb
 - Phiên bản sử dụng để đảm bảo tái lập:
+
 ` numpy:    1.26.4`
 
 ` pandas:   2.2.2`
