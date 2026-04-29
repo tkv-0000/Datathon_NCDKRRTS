@@ -1,0 +1,17 @@
+# Normalize line endings
+* text=auto
+
+# Force LF for code
+*.py text eol=lf
+*.ipynb text eol=lf
+*.md text eol=lf
+
+# Treat binaries correctly
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.twbx binary
+
+# Jupyter notebooks
+*.ipynb diff=ipynb
+*.ipynb filter=nbstripout
