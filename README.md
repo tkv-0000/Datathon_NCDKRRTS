@@ -3,19 +3,19 @@
 Chứa tất cả mã nguồn, mô hình và sản phẩm của nhóm trong quá trình tham gia vòng Sơ loại cuộc thi Datathon 2026 - The GridBreakers
 ---
 ## Khái quát Repository
-Gồm 4 folder tương ứng với các nội dung:
+Gồm 4 folder và 1 file txt:
 - Dataset: bộ dữ liệu do BTC cung cấp, tổng cộng 14 file csv và 1 file Jupyter Notebook
 - Part 1_MCQ: file Jupyter Notebook ghi lại quá trình tìm ra câu trả lời cho phần 1
 - Part 2_Visualization_Insights: các file Jupyter Notebook (cleaning), Tableau (Visualization), và report tổng thể
 - Part 3: file Jupyter Notebook có đầy đủ pipeline của mô hình Machine Learning và các biểu đồ SHAP Explainability giải thích mô hình
+- requirements.txt: chứa thông tin để tái lập kết quả trong môi trường Python
 ---
 ## Các yêu cầu cần đáp ứng để đảm bảo việc tái lập kết quả
 1. Packages và Libraries của Python
 - Định dạng file: .ipynb
 - Phiên bản sử dụng để đảm bảo tái lập:
 
-` pip install numpy==1.26.4`
-
+``` pip install requirements.txt```
 
 2. Tableau
 - Định dạng file: .twbx
