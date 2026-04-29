@@ -29,3 +29,25 @@ pip install requirements.txt
 2. Link repository: [Nếu_cả_đời_không_rực_rỡ_thì_sao](https://github.com/tkv-0000/Datathon_N-u-c-i-kh-ng-r-c-r-th-sao)
 3. Link submission Kaggle: [submission.csv](https://github.com/tkv-0000/Datathon_N-u-c-i-kh-ng-r-c-r-th-sao/blob/6461a281f8c3f0e6181705f5f23479d976cf1bf4/Part%203_Machine_Learning/submission.csv)
 4. Minh chứng đối tượng tham gia: [Minh chứng](https://drive.google.com/drive/folders/12Y7PEO2nLWQGRjTjVX0RtI63zCTTKamw?usp=sharing)
+---
+## Contributors
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com">
+        <img src="https://github.com/audriangx" width="100px;" alt="Nguyễn Minh Châu"/><br />
+        <sub><b>Nguyễn Minh Châu</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com">
+        <img src="https://github.com/tkv-0000" width="100px;" alt="Leader"/><br />
+        <sub><b>Tô Khánh Vân</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com">
+        <img src="https://github.com/Ahirru" width="100px;" alt="Nguyễn Đình Việt"/><br />
+        <sub><b>Nguyễn Đình Việt</b></sub>
+  </tr>
+</table>
