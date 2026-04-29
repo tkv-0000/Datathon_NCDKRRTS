@@ -1,6 +1,6 @@
 # Datathon 2026 - Nếu cả đời không rực rỡ thì sao
 ---
-Repository này là nơi chứa tất cả mã nguồn, mô hình và sản phẩm của nhóm Nếu cả đời không rực rỡ thì sao trong quá trình tham gia vòng Sơ loại của cuộc thi Datathon 2026 - The GridBreakers
+Chứa tất cả mã nguồn, mô hình và sản phẩm của nhóm trong quá trình tham gia vòng Sơ loại cuộc thi Datathon 2026 - The GridBreakers
 ---
 ## Khái quát Repository
 Gồm 4 folder tương ứng với các nội dung:
@@ -13,12 +13,13 @@ Gồm 4 folder tương ứng với các nội dung:
 1. Packages và Libraries của Python
 - Định dạng file: .ipynb
 - Phiên bản sử dụng để đảm bảo tái lập:
-` numpy:    1.26.4
-  pandas:   2.2.2
-  sklearn:  1.5.1
-  lightgbm: 4.6.0
-  seaborn:  0.13.2
-  shap:     0.45.1 `
+` numpy:    1.26.4`
+` pandas:   2.2.2`
+` sklearn:  1.5.1`
+` lightgbm: 4.6.0`
+` seaborn:  0.13.2`
+` shap:     0.45.1`
+
 2. Tableau
 - Định dạng file: .twbx
 - Tải Tableau Public tại [đây](https://www.tableau.com/products/public/download) hoặc sử dụng [Tableau Public Web](https://public.tableau.com/app/profile/nguyen.chau/viz/002_DataVisualization/VISUALIZATION) để xem các visualization
