@@ -22,7 +22,7 @@ pip install requirements.txt
 
 2. Tableau
 - Định dạng file: .twbx
-- Tải Tableau Public tại [đây](https://www.tableau.com/products/public/download) hoặc sử dụng [Tableau Public Web](https://public.tableau.com/app/profile/nguyen.chau/viz/002_DataVisualization/VISUALIZATION) để xem các visualization
+- Tải Tableau Public tại [đây](https://www.tableau.com/products/public/download) hoặc sử dụng [Tableau Public Web](https://public.tableau.com/app/profile/van.tk/viz/002_DataVisualization_17775724167020/VISUALIZATION) để xem các visualization
 ---
 ## Các thông tin khác
 1. Mã đội thi: cP35ukmreDgz6gJOEJda
