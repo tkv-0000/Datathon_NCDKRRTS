@@ -27,8 +27,8 @@ pip install requirements.txt
 ## Các thông tin khác
 1. Mã đội thi: cP35ukmreDgz6gJOEJda
 2. Link repository: [Nếu_cả_đời_không_rực_rỡ_thì_sao](https://github.com/tkv-0000/Datathon_N-u-c-i-kh-ng-r-c-r-th-sao)
-3. Link submission Kaggle: [submission.csv](https://github.com/tkv-0000/Datathon_N-u-c-i-kh-ng-r-c-r-th-sao/blob/6461a281f8c3f0e6181705f5f23479d976cf1bf4/Part%203_Machine_Learning/submission.csv)
-4. Minh chứng đối tượng tham gia: [Minh chứng](https://drive.google.com/drive/folders/12Y7PEO2nLWQGRjTjVX0RtI63zCTTKamw?usp=sharing)
+3. Link submission Kaggle: [submission.csv](https://drive.google.com/drive/folders/12G1IGxss0g6r_qVfkID-IAK1avQNH5Yn?usp=sharing)
+4. Minh chứng đối tượng tham gia: [Minh chứng](https://drive.google.com/drive/folders/1IsrR7Rt2LJeMAUKS1ZO7jr-hsk9f9XfO?usp=drive_link)
 ---
 ## Contributors
 <div align="center">
